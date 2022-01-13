@@ -110,5 +110,3 @@ if __name__ == "__main__":
     print(p1.solve())  # affiche ((-0.5+0.8660254037844386j), (-0.5-0.8660254037844386j))
     p1.draw()  # trace la courbe de p1, voir fichier png
     
-    # p4 = Poly2(*[1,0,1])
-    # print(p4.val(5))
